@@ -2,3 +2,6 @@
 
 Projetos:
 - Piscar um led
+- Piscar dois leds
+- Robô com controle remoto
+- Sorteador de números
