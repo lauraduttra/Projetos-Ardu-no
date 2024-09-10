@@ -1,7 +1,6 @@
-## Projeto Desenvolvido para o arduíno
+## *Projeto desenvolvido para o arduíno*
 
-Projetos:
-- Piscar um led
-- Piscar dois leds
-- Robô com controle remoto
-- Sorteador de números
+- piscar um led 🚨
+- piscar dois leds 🚦
+- robô com controle remoto 🤖
+- sorteador de números 🤞🏻
